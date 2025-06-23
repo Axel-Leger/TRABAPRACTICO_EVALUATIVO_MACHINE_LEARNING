@@ -1,0 +1,501 @@
+tipo,habitaciones,baños,superficie_m2,barrio,precio_alquiler
+Departamento,1,1,52.0,San Telmo,159000.0
+PH,2,1,65.7,Caballito,205000.0
+PH,3,1,75.5,Villa Crespo,248000.0
+Departamento,3,1,66.5,Palermo,203000.0
+Casa,3,1,43.6,San Telmo,121000.0
+Departamento,1,1,63.2,Palermo,183000.0
+PH,3,1,84.8,Villa Urquiza,281000.0
+PH,3,1,71.3,San Telmo,185000.0
+Casa,3,1,75.0,Palermo,213000.0
+PH,2,1,68.6,San Telmo,180000.0
+Departamento,2,1,131.0,Palermo,362000.0
+Casa,4,2,127.8,Almagro,425000.0
+PH,2,1,124.0,Villa Crespo,334000.0
+Casa,4,2,108.0,Belgrano,362000.0
+PH,2,1,79.4,Caballito,224000.0
+Departamento,3,1,46.2,Recoleta,131000.0
+Departamento,3,1,124.9,Belgrano,334000.0
+PH,3,1,109.2,Villa Crespo,375000.0
+Casa,4,2,120.5,Caballito,311000.0
+PH,4,2,66.8,Recoleta,207000.0
+Departamento,4,2,140.9,Villa Crespo,477000.0
+Departamento,4,2,105.5,Palermo,333000.0
+PH,4,2,75.1,Villa Urquiza,244000.0
+Casa,4,2,49.2,Villa Crespo,142000.0
+Casa,3,1,116.1,Palermo,321000.0
+Casa,1,1,47.0,Palermo,146000.0
+Departamento,4,2,79.7,Almagro,226000.0
+Departamento,2,1,136.4,Villa Urquiza,357000.0
+Departamento,2,1,92.7,Caballito,234000.0
+PH,2,1,59.5,Caballito,165000.0
+Departamento,1,1,38.7,Almagro,99000.0
+Departamento,3,1,104.1,Almagro,326000.0
+PH,2,1,81.5,Almagro,260000.0
+Casa,1,1,85.4,Belgrano,260000.0
+Casa,3,1,49.0,San Telmo,164000.0
+PH,4,2,125.7,Villa Urquiza,326000.0
+PH,4,2,39.4,Villa Crespo,113000.0
+Casa,3,1,57.2,San Telmo,196000.0
+Casa,4,2,64.4,Almagro,204000.0
+PH,3,1,116.1,Belgrano,332000.0
+PH,2,1,49.6,Almagro,128000.0
+PH,2,1,78.5,Palermo,197000.0
+PH,1,1,86.8,Belgrano,300000.0
+Casa,3,1,115.0,San Telmo,291000.0
+Casa,1,1,141.8,Almagro,403000.0
+PH,1,1,59.6,San Telmo,186000.0
+Departamento,3,1,86.0,San Telmo,253000.0
+Casa,3,1,119.3,Villa Crespo,351000.0
+PH,1,1,31.8,Villa Crespo,92000.0
+Departamento,1,1,47.0,San Telmo,161000.0
+PH,4,2,87.4,Caballito,258000.0
+PH,4,2,96.3,Palermo,301000.0
+Departamento,1,1,109.6,San Telmo,372000.0
+Departamento,1,1,97.1,Caballito,248000.0
+Casa,1,1,110.1,Caballito,285000.0
+Departamento,1,1,104.4,Recoleta,317000.0
+Departamento,4,2,101.6,Belgrano,270000.0
+Departamento,4,2,107.9,San Telmo,307000.0
+Casa,3,1,116.8,San Telmo,352000.0
+Casa,2,1,73.8,Villa Urquiza,201000.0
+Departamento,3,1,87.1,Villa Urquiza,230000.0
+Casa,1,1,131.3,Palermo,406000.0
+Departamento,4,2,115.1,San Telmo,316000.0
+Casa,1,1,132.4,Palermo,462000.0
+Casa,3,1,118.3,Villa Crespo,395000.0
+Departamento,3,1,113.0,Almagro,327000.0
+PH,3,1,65.3,Palermo,191000.0
+PH,4,2,87.1,Belgrano,224000.0
+Casa,2,1,55.1,San Telmo,164000.0
+PH,2,1,100.8,Almagro,341000.0
+PH,2,1,97.1,Palermo,252000.0
+Casa,1,1,108.8,Caballito,311000.0
+Departamento,4,2,104.2,Caballito,345000.0
+Departamento,1,1,104.8,Villa Crespo,294000.0
+PH,3,1,72.6,San Telmo,202000.0
+Casa,1,1,48.7,Villa Crespo,122000.0
+PH,4,2,129.0,Recoleta,330000.0
+Departamento,1,1,38.3,Villa Urquiza,132000.0
+PH,3,1,67.6,Belgrano,194000.0
+PH,4,2,53.6,Almagro,158000.0
+Departamento,1,1,118.1,Palermo,374000.0
+Departamento,2,1,123.3,Villa Urquiza,385000.0
+Departamento,1,1,82.6,Villa Crespo,215000.0
+Casa,4,2,132.6,Almagro,443000.0
+PH,2,1,94.5,Villa Crespo,282000.0
+PH,1,1,63.9,Almagro,176000.0
+Departamento,3,1,96.5,Caballito,301000.0
+Departamento,2,1,36.5,Villa Crespo,93000.0
+Departamento,1,1,52.9,Palermo,147000.0
+Casa,3,1,75.1,Belgrano,255000.0
+Departamento,1,1,126.6,Villa Urquiza,391000.0
+Casa,3,1,84.1,Belgrano,247000.0
+Casa,3,1,68.2,Almagro,230000.0
+PH,1,1,88.3,Palermo,240000.0
+PH,4,2,145.0,Recoleta,495000.0
+Casa,4,2,45.1,Villa Urquiza,147000.0
+Departamento,1,1,109.9,Caballito,280000.0
+Casa,2,1,91.3,San Telmo,282000.0
+Departamento,2,1,117.4,Caballito,376000.0
+Casa,1,1,36.8,Caballito,98000.0
+Casa,4,2,60.6,Caballito,194000.0
+Casa,3,1,87.5,Recoleta,229000.0
+Casa,1,1,141.7,San Telmo,493000.0
+Casa,1,1,55.7,Belgrano,159000.0
+Casa,1,1,145.5,Recoleta,458000.0
+Casa,1,1,146.6,Caballito,369000.0
+Departamento,2,1,54.8,Recoleta,150000.0
+PH,4,2,111.9,Palermo,322000.0
+PH,4,2,65.4,Belgrano,183000.0
+Departamento,2,1,129.2,San Telmo,413000.0
+PH,2,1,82.9,Caballito,283000.0
+Casa,3,1,71.9,Villa Urquiza,185000.0
+PH,3,1,113.5,Villa Crespo,355000.0
+Departamento,1,1,31.8,Almagro,92000.0
+Casa,1,1,67.7,Caballito,209000.0
+Departamento,2,1,91.5,Caballito,261000.0
+PH,2,1,40.8,Recoleta,139000.0
+Casa,3,1,81.1,San Telmo,266000.0
+Casa,3,1,132.7,San Telmo,429000.0
+Casa,2,1,33.6,Villa Crespo,86000.0
+Casa,4,2,117.8,Villa Urquiza,408000.0
+Departamento,3,1,116.8,Palermo,341000.0
+Departamento,1,1,63.2,Palermo,202000.0
+Departamento,2,1,105.6,Recoleta,354000.0
+PH,1,1,134.8,San Telmo,343000.0
+Departamento,2,1,83.1,Almagro,261000.0
+Casa,1,1,44.7,Caballito,155000.0
+Casa,2,1,50.1,Almagro,148000.0
+Casa,1,1,56.5,San Telmo,188000.0
+Departamento,2,1,78.8,Almagro,263000.0
+Departamento,3,1,109.4,San Telmo,350000.0
+Casa,2,1,51.0,Caballito,140000.0
+Departamento,4,2,99.6,Palermo,283000.0
+Casa,3,1,37.5,Villa Crespo,97000.0
+PH,1,1,88.8,Villa Crespo,244000.0
+Departamento,1,1,106.0,Recoleta,293000.0
+Casa,4,2,45.3,Villa Urquiza,128000.0
+Casa,1,1,34.7,Caballito,121000.0
+Casa,1,1,115.3,Palermo,397000.0
+Departamento,1,1,117.5,Recoleta,373000.0
+Departamento,2,1,91.3,Villa Crespo,244000.0
+PH,1,1,136.3,Caballito,348000.0
+Casa,1,1,51.5,Belgrano,149000.0
+Departamento,3,1,30.8,Palermo,98000.0
+Departamento,2,1,32.2,Palermo,84000.0
+Departamento,2,1,145.1,Belgrano,477000.0
+Departamento,2,1,90.0,Recoleta,293000.0
+Departamento,3,1,144.6,Caballito,483000.0
+Departamento,2,1,30.4,Recoleta,96000.0
+PH,1,1,52.8,Recoleta,159000.0
+PH,1,1,52.4,Almagro,155000.0
+Departamento,4,2,81.4,Caballito,210000.0
+PH,4,2,128.3,Almagro,424000.0
+Departamento,4,2,102.4,Belgrano,293000.0
+Departamento,2,1,86.7,Villa Crespo,280000.0
+Departamento,4,2,48.7,Caballito,163000.0
+Departamento,4,2,37.4,Almagro,119000.0
+PH,1,1,30.1,Caballito,92000.0
+PH,3,1,46.1,Palermo,154000.0
+PH,4,2,133.0,San Telmo,375000.0
+PH,1,1,31.0,Recoleta,108000.0
+Departamento,4,2,113.3,Palermo,373000.0
+Casa,1,1,58.3,Villa Crespo,158000.0
+Casa,3,1,66.9,Villa Urquiza,227000.0
+Departamento,4,2,119.9,Villa Crespo,329000.0
+PH,1,1,88.6,Belgrano,243000.0
+Casa,3,1,53.2,Recoleta,169000.0
+Departamento,4,2,148.5,Caballito,372000.0
+Casa,3,1,43.0,Almagro,108000.0
+Departamento,1,1,56.8,San Telmo,149000.0
+Casa,2,1,100.2,Belgrano,252000.0
+PH,3,1,146.8,Recoleta,491000.0
+PH,1,1,40.0,San Telmo,111000.0
+Casa,4,2,34.8,Palermo,119000.0
+PH,2,1,121.8,Villa Crespo,345000.0
+PH,3,1,130.9,Villa Crespo,344000.0
+Departamento,1,1,128.9,Palermo,326000.0
+Departamento,3,1,57.9,San Telmo,157000.0
+PH,4,2,46.5,Recoleta,132000.0
+Departamento,2,1,140.7,Caballito,447000.0
+PH,4,2,54.5,Villa Urquiza,183000.0
+Departamento,4,2,93.0,San Telmo,313000.0
+PH,3,1,136.5,Recoleta,476000.0
+Casa,1,1,56.7,Caballito,186000.0
+PH,2,1,68.3,San Telmo,211000.0
+Departamento,4,2,140.7,Palermo,450000.0
+Departamento,3,1,80.9,Caballito,249000.0
+Departamento,3,1,140.0,Villa Crespo,396000.0
+Casa,2,1,145.4,Caballito,379000.0
+PH,1,1,53.0,Recoleta,135000.0
+PH,3,1,36.6,Palermo,97000.0
+Departamento,4,2,51.9,Palermo,145000.0
+Departamento,1,1,122.3,Villa Crespo,316000.0
+Departamento,1,1,96.1,Villa Urquiza,335000.0
+PH,3,1,48.4,Villa Urquiza,164000.0
+Departamento,3,1,75.8,Almagro,193000.0
+PH,4,2,107.9,San Telmo,304000.0
+Departamento,4,2,86.3,Recoleta,294000.0
+Departamento,1,1,123.9,Caballito,421000.0
+PH,2,1,57.5,Palermo,160000.0
+Departamento,4,2,80.8,Villa Urquiza,259000.0
+Departamento,1,1,50.3,Recoleta,164000.0
+Departamento,3,1,32.1,Villa Crespo,100000.0
+Departamento,2,1,94.1,Caballito,301000.0
+PH,3,1,139.8,San Telmo,396000.0
+PH,1,1,123.8,Palermo,337000.0
+PH,3,1,45.7,San Telmo,132000.0
+Departamento,1,1,83.9,Villa Crespo,231000.0
+PH,1,1,138.2,Villa Urquiza,448000.0
+PH,1,1,107.3,Villa Urquiza,290000.0
+Departamento,4,2,39.0,Villa Crespo,127000.0
+Casa,1,1,30.2,Villa Crespo,98000.0
+PH,4,2,120.2,Almagro,331000.0
+Departamento,1,1,118.8,Caballito,386000.0
+PH,4,2,125.9,Palermo,395000.0
+Casa,3,1,134.7,San Telmo,343000.0
+Casa,4,2,105.3,San Telmo,277000.0
+Casa,4,2,98.2,Villa Urquiza,286000.0
+Departamento,2,1,68.7,Villa Crespo,193000.0
+Departamento,1,1,93.7,Almagro,303000.0
+PH,2,1,40.9,Villa Urquiza,108000.0
+PH,3,1,36.8,Almagro,95000.0
+Departamento,3,1,80.8,Palermo,275000.0
+PH,2,1,38.7,Almagro,124000.0
+Departamento,1,1,130.6,Villa Urquiza,332000.0
+Casa,3,1,114.1,Belgrano,313000.0
+Casa,2,1,112.1,Caballito,314000.0
+PH,1,1,83.8,Almagro,234000.0
+PH,2,1,33.6,Belgrano,87000.0
+Casa,2,1,47.4,Villa Crespo,141000.0
+Casa,4,2,131.9,Villa Crespo,391000.0
+Casa,2,1,40.9,Palermo,130000.0
+Departamento,4,2,114.2,Almagro,386000.0
+PH,1,1,67.8,Caballito,217000.0
+PH,2,1,103.3,Villa Crespo,301000.0
+Departamento,4,2,31.3,Palermo,85000.0
+Departamento,3,1,103.0,Palermo,264000.0
+Casa,4,2,46.5,Caballito,136000.0
+Casa,3,1,134.1,San Telmo,449000.0
+Departamento,2,1,56.6,Recoleta,151000.0
+Departamento,4,2,126.1,Villa Urquiza,396000.0
+Departamento,1,1,69.4,Palermo,181000.0
+PH,3,1,131.3,San Telmo,415000.0
+Casa,2,1,112.0,Recoleta,340000.0
+Departamento,1,1,118.4,Belgrano,412000.0
+Casa,2,1,84.7,Almagro,288000.0
+Casa,2,1,122.6,Villa Urquiza,425000.0
+Departamento,1,1,133.8,Belgrano,344000.0
+Casa,4,2,60.9,Villa Urquiza,161000.0
+PH,1,1,88.4,Belgrano,303000.0
+PH,4,2,122.1,Caballito,380000.0
+Casa,1,1,53.0,Villa Urquiza,159000.0
+Casa,2,1,119.0,Almagro,332000.0
+PH,1,1,38.4,Villa Urquiza,110000.0
+PH,3,1,47.9,San Telmo,138000.0
+Casa,2,1,51.3,San Telmo,140000.0
+Casa,3,1,64.6,Palermo,206000.0
+Casa,4,2,130.3,Villa Crespo,359000.0
+Casa,4,2,32.9,Villa Crespo,110000.0
+Casa,3,1,43.0,Villa Crespo,108000.0
+Departamento,4,2,124.0,Belgrano,311000.0
+Casa,4,2,121.7,Belgrano,420000.0
+Departamento,2,1,42.6,Almagro,119000.0
+Casa,4,2,66.2,Villa Crespo,202000.0
+Departamento,4,2,60.3,Villa Crespo,206000.0
+PH,2,1,71.1,Palermo,242000.0
+Departamento,2,1,90.2,Recoleta,265000.0
+PH,1,1,86.3,San Telmo,281000.0
+PH,2,1,112.1,Caballito,296000.0
+Departamento,2,1,33.7,Villa Crespo,108000.0
+Departamento,4,2,52.9,Villa Urquiza,171000.0
+PH,3,1,146.8,Caballito,479000.0
+Departamento,3,1,66.3,Villa Crespo,182000.0
+PH,4,2,65.5,Villa Urquiza,175000.0
+Departamento,3,1,61.6,Villa Urquiza,204000.0
+Casa,2,1,70.8,Belgrano,247000.0
+Departamento,1,1,34.9,San Telmo,93000.0
+Casa,1,1,55.0,Villa Urquiza,146000.0
+Departamento,3,1,82.8,Caballito,229000.0
+PH,4,2,109.5,Recoleta,282000.0
+PH,2,1,47.8,Villa Crespo,133000.0
+PH,2,1,140.1,Belgrano,384000.0
+Departamento,1,1,131.8,Caballito,407000.0
+Departamento,1,1,55.6,Palermo,161000.0
+Departamento,4,2,70.8,Palermo,198000.0
+PH,2,1,130.8,Caballito,433000.0
+PH,1,1,138.6,Caballito,411000.0
+Casa,3,1,103.9,Caballito,282000.0
+Departamento,1,1,132.7,Villa Crespo,389000.0
+Casa,1,1,120.4,Villa Urquiza,414000.0
+Casa,1,1,105.7,Villa Urquiza,353000.0
+PH,1,1,32.1,San Telmo,82000.0
+Casa,3,1,105.7,Villa Urquiza,324000.0
+PH,2,1,110.3,Recoleta,348000.0
+Departamento,3,1,91.1,Caballito,305000.0
+PH,4,2,79.9,Recoleta,277000.0
+Casa,1,1,97.8,Villa Crespo,258000.0
+Casa,1,1,76.8,Belgrano,213000.0
+PH,1,1,133.5,Villa Crespo,466000.0
+PH,4,2,80.4,Villa Urquiza,224000.0
+PH,4,2,90.8,Recoleta,271000.0
+PH,3,1,144.0,Almagro,396000.0
+Casa,2,1,40.9,Villa Urquiza,109000.0
+Departamento,2,1,55.8,Almagro,145000.0
+Departamento,2,1,38.4,San Telmo,117000.0
+Casa,1,1,81.8,Recoleta,229000.0
+PH,2,1,100.7,Villa Crespo,258000.0
+PH,2,1,75.7,Villa Urquiza,218000.0
+PH,4,2,89.1,Villa Crespo,280000.0
+Departamento,3,1,40.7,Palermo,140000.0
+PH,2,1,82.9,Recoleta,209000.0
+Casa,1,1,104.5,Almagro,267000.0
+Casa,2,1,145.6,Belgrano,463000.0
+Departamento,2,1,59.0,Recoleta,187000.0
+PH,1,1,133.7,Villa Urquiza,353000.0
+Departamento,3,1,63.7,Palermo,167000.0
+Departamento,2,1,129.1,Palermo,376000.0
+PH,4,2,112.2,Palermo,376000.0
+Departamento,4,2,44.1,Palermo,132000.0
+Casa,4,2,48.3,Caballito,127000.0
+Departamento,2,1,87.8,Caballito,236000.0
+Departamento,3,1,138.8,Villa Crespo,475000.0
+Casa,4,2,77.7,Villa Urquiza,204000.0
+Departamento,3,1,38.4,Villa Urquiza,125000.0
+Casa,4,2,38.4,Villa Urquiza,119000.0
+PH,3,1,88.8,Palermo,283000.0
+Casa,3,1,98.7,Palermo,268000.0
+Casa,3,1,134.3,Villa Crespo,454000.0
+PH,4,2,147.6,San Telmo,381000.0
+Departamento,2,1,141.9,San Telmo,439000.0
+PH,3,1,129.4,Villa Urquiza,451000.0
+Casa,2,1,108.1,Caballito,320000.0
+Departamento,4,2,126.1,San Telmo,441000.0
+Departamento,1,1,68.2,Caballito,229000.0
+Departamento,4,2,123.2,Belgrano,355000.0
+Departamento,3,1,58.4,Caballito,152000.0
+Casa,3,1,87.3,Caballito,284000.0
+Departamento,2,1,140.4,Villa Urquiza,370000.0
+Departamento,3,1,81.8,San Telmo,222000.0
+Departamento,3,1,91.7,Villa Crespo,285000.0
+Departamento,1,1,102.7,Caballito,261000.0
+Casa,3,1,102.6,San Telmo,322000.0
+PH,1,1,56.6,Recoleta,142000.0
+PH,3,1,67.5,Villa Urquiza,173000.0
+Departamento,3,1,109.5,Palermo,316000.0
+PH,3,1,100.6,Palermo,256000.0
+PH,4,2,109.7,Belgrano,373000.0
+PH,4,2,79.3,San Telmo,253000.0
+Departamento,4,2,65.0,Villa Urquiza,227000.0
+Casa,2,1,117.9,Belgrano,343000.0
+PH,1,1,147.2,Villa Crespo,494000.0
+PH,4,2,54.4,Recoleta,176000.0
+PH,4,2,127.3,Villa Crespo,409000.0
+Casa,3,1,112.1,Villa Urquiza,367000.0
+PH,1,1,30.7,Villa Urquiza,93000.0
+Casa,1,1,128.1,Belgrano,350000.0
+Departamento,1,1,82.0,Palermo,258000.0
+Casa,3,1,44.0,Villa Urquiza,151000.0
+Casa,3,1,136.6,Almagro,356000.0
+Casa,2,1,35.5,Belgrano,116000.0
+Departamento,2,1,120.9,Almagro,411000.0
+Departamento,2,1,134.8,Belgrano,444000.0
+Casa,4,2,82.2,San Telmo,274000.0
+PH,2,1,124.3,San Telmo,404000.0
+Departamento,3,1,82.7,Villa Urquiza,253000.0
+Casa,1,1,118.7,Villa Crespo,336000.0
+Casa,3,1,35.6,San Telmo,114000.0
+PH,3,1,60.8,Palermo,160000.0
+PH,3,1,100.4,Villa Crespo,321000.0
+Casa,4,2,97.6,Palermo,256000.0
+Departamento,4,2,61.9,San Telmo,189000.0
+PH,4,2,65.8,Palermo,200000.0
+Casa,2,1,44.0,Villa Crespo,116000.0
+PH,2,1,137.1,Recoleta,455000.0
+Departamento,2,1,39.6,Almagro,135000.0
+PH,1,1,118.4,Villa Urquiza,328000.0
+Departamento,3,1,61.2,Caballito,211000.0
+Casa,3,1,104.9,Almagro,348000.0
+PH,4,2,86.0,San Telmo,262000.0
+Casa,1,1,132.0,Villa Urquiza,446000.0
+PH,1,1,32.1,Belgrano,88000.0
+PH,3,1,137.5,Caballito,480000.0
+Casa,2,1,46.7,Recoleta,130000.0
+Departamento,3,1,149.8,Almagro,487000.0
+Departamento,2,1,143.4,San Telmo,485000.0
+Departamento,1,1,124.6,Almagro,434000.0
+Departamento,2,1,66.4,San Telmo,216000.0
+PH,2,1,77.4,Villa Crespo,239000.0
+Departamento,2,1,117.2,Palermo,328000.0
+PH,3,1,44.2,Caballito,140000.0
+Departamento,1,1,89.5,Caballito,246000.0
+Casa,4,2,71.1,Belgrano,203000.0
+Departamento,4,2,88.3,Almagro,270000.0
+PH,2,1,131.1,Caballito,394000.0
+PH,1,1,37.8,Almagro,111000.0
+PH,3,1,117.6,Belgrano,359000.0
+PH,1,1,110.7,San Telmo,354000.0
+Departamento,2,1,105.7,Belgrano,350000.0
+Casa,1,1,108.5,Almagro,294000.0
+PH,2,1,69.7,Belgrano,204000.0
+Casa,2,1,126.0,Palermo,406000.0
+Departamento,1,1,70.4,Caballito,190000.0
+Casa,2,1,69.5,Palermo,199000.0
+PH,2,1,70.2,Belgrano,192000.0
+Departamento,2,1,78.6,Palermo,226000.0
+Casa,2,1,94.5,Recoleta,306000.0
+Departamento,4,2,112.6,Palermo,328000.0
+PH,4,2,112.3,Recoleta,359000.0
+Departamento,1,1,76.2,Belgrano,195000.0
+Departamento,3,1,143.3,Recoleta,414000.0
+PH,1,1,89.8,Recoleta,241000.0
+PH,4,2,146.2,Almagro,468000.0
+Casa,3,1,145.8,Recoleta,419000.0
+Casa,2,1,133.4,San Telmo,427000.0
+Casa,3,1,80.5,Caballito,243000.0
+Casa,2,1,32.1,San Telmo,98000.0
+Departamento,2,1,30.2,San Telmo,80000.0
+Departamento,4,2,142.4,San Telmo,457000.0
+Departamento,3,1,133.6,San Telmo,430000.0
+PH,4,2,111.7,Villa Crespo,357000.0
+PH,2,1,138.2,San Telmo,354000.0
+Casa,2,1,60.1,Villa Urquiza,163000.0
+Casa,3,1,86.7,Belgrano,234000.0
+Casa,2,1,96.0,Palermo,316000.0
+Departamento,1,1,34.9,San Telmo,105000.0
+Departamento,1,1,40.9,Villa Crespo,141000.0
+PH,1,1,56.6,Recoleta,152000.0
+Departamento,1,1,104.2,Recoleta,347000.0
+Casa,4,2,53.9,San Telmo,146000.0
+Casa,3,1,38.9,San Telmo,101000.0
+PH,2,1,114.1,Villa Crespo,356000.0
+Casa,2,1,112.3,Almagro,374000.0
+Departamento,4,2,112.4,Villa Urquiza,370000.0
+Casa,3,1,60.1,Villa Crespo,207000.0
+PH,1,1,148.6,San Telmo,436000.0
+PH,2,1,49.2,Caballito,124000.0
+Departamento,3,1,64.1,Almagro,186000.0
+Departamento,2,1,97.7,Almagro,248000.0
+Casa,4,2,104.9,Palermo,359000.0
+PH,2,1,126.1,Almagro,391000.0
+Casa,1,1,125.6,Palermo,398000.0
+PH,4,2,67.6,Almagro,214000.0
+PH,4,2,61.7,Belgrano,209000.0
+PH,1,1,90.4,Villa Urquiza,264000.0
+PH,3,1,113.4,Belgrano,343000.0
+Casa,3,1,40.6,Villa Urquiza,121000.0
+PH,3,1,117.2,Recoleta,328000.0
+Casa,3,1,48.7,Caballito,149000.0
+Casa,1,1,51.6,Caballito,166000.0
+PH,2,1,34.3,Palermo,95000.0
+Casa,4,2,32.8,San Telmo,105000.0
+Casa,4,2,129.9,Caballito,448000.0
+Departamento,4,2,73.9,Caballito,241000.0
+PH,4,2,142.9,Palermo,454000.0
+PH,4,2,130.6,Villa Urquiza,331000.0
+PH,1,1,73.5,Belgrano,241000.0
+Casa,1,1,95.0,Villa Crespo,239000.0
+Departamento,1,1,110.7,Villa Crespo,294000.0
+PH,2,1,63.9,Caballito,202000.0
+Casa,1,1,98.8,Caballito,287000.0
+Departamento,1,1,94.2,Villa Crespo,280000.0
+PH,4,2,50.0,Belgrano,131000.0
+Departamento,3,1,57.1,Villa Crespo,151000.0
+Casa,1,1,148.2,Caballito,421000.0
+Casa,3,1,85.8,Caballito,232000.0
+Departamento,3,1,111.5,Palermo,342000.0
+Departamento,3,1,121.3,Almagro,422000.0
+Departamento,1,1,87.7,Villa Crespo,302000.0
+Casa,1,1,106.8,Villa Urquiza,299000.0
+Departamento,4,2,100.2,Palermo,343000.0
+Casa,3,1,107.2,Palermo,340000.0
+Casa,4,2,139.9,Almagro,461000.0
+Casa,4,2,35.7,Villa Crespo,111000.0
+Departamento,1,1,127.8,Palermo,380000.0
+Departamento,3,1,52.7,Villa Urquiza,133000.0
+Departamento,4,2,112.8,Villa Urquiza,292000.0
+Departamento,4,2,119.8,Recoleta,315000.0
+PH,1,1,86.2,Recoleta,216000.0
+Casa,1,1,102.7,Caballito,343000.0
+Departamento,1,1,90.1,San Telmo,230000.0
+Casa,-1,2,120.0,Palermo,240000
+Departamento,2,0,45.0,Villa Urquiza,150000
+,3,2,90.0,Caballito,200000
+PH,2,1,9999.0,Almagro,50000000
+Departamento,1,1,35.0,,120000
+Departamento,1,1,35.0,Caballito,
+Departamento,dos,1,35.0,Caballito,120000
+PH,2,1,grande,Belgrano,145000
+Casa,3,1,95.0,Recoleta,-150000
+Departamento,2,1,45.0,Palermo,caro
+Casa,3,1,134.1,Palermo,455000.0
+Casa,4,2,68.9,Recoleta,175000.0
+Casa,4,2,70.4,San Telmo,185000.0
+Departamento,2,1,148.5,Palermo,510000.0
+PH,3,1,39.7,Villa Crespo,117000.0
+Casa,4,2,91.3,San Telmo,244000.0
+PH,1,1,82.6,Palermo,214000.0
+PH,3,1,91.0,Recoleta,268000.0
+Departamento,4,2,47.1,Palermo,143000.0
+PH,3,1,142.5,Villa Crespo,368000.0
