@@ -1,13 +1,13 @@
 ﻿## Para correr el programa necesita
 ### crear un archivo venv donde guardar las intalaciones (esto es opcional pero nos enseñaron asi que es la unica forma que conosco)
 * python -m venv venv 
-despues activa el entorno
+### despues activa el entorno
 * venv\Scripts\activate
-luego intala las dependencias
+### luego intala las dependencias
 * pip install flask pandas scikit-learn joblib
-inicializa el servidor
+### inicializa el servidor
 * python server.py  
-y por ultimo inicializa el html
+### y por ultimo inicializa el html
 
 
 ## Explicacion de porque usamos este dataSet
