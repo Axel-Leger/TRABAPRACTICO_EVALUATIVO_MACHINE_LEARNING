@@ -25,12 +25,15 @@ df["baños"] = df["baños"].astype(int)
 
 df = df[df["precio_alquiler"].between(1, 999999)]
 
-X = df[["habitaciones", "baños", "tipo_pago"]]
+X = df[["habitaciones", "baños", "tipo_pago", "tipo", "localidad"]]
 y = df["precio_alquiler"]
 
 preprocesador = ColumnTransformer([
-    ("tipo_pago", OneHotEncoder(handle_unknown='ignore'), ["tipo_pago"])
+    ("tipo_pago", OneHotEncoder(handle_unknown='ignore'), ["tipo_pago"]),
+    ("tipo", OneHotEncoder(handle_unknown='ignore'), ["tipo"]),
+    ("localidad", OneHotEncoder(handle_unknown='ignore'), ["localidad"])
 ], remainder='passthrough')
+
 
 modelo = Pipeline([
     ("preprocesamiento", preprocesador),

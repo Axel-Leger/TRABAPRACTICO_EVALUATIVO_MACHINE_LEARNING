@@ -2,26 +2,56 @@
 <html>
 <head>
   <title>Predicción de Alquiler</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <h1>Entrenar Modelo</h1>
   <button id="botonEntrenar">Entrenar modelo</button>
 
   <h1>Ingresar datos</h1>
-  <form id="formulario">
-    <label>Habitaciones: <input type="number" name="habitaciones" required></label><br>
-    <label>Baños: <input type="number" name="baños" required></label><br>
-    <label>Tipo de pago:
-      <select name="tipo_pago" required>
-        <option value="mensual">Mensual</option>
-        <option value="anual">Anual</option>
-        <option value="diario">Diario</option>
-      </select>
-    </label><br>
-    <button type="submit">Predecir</button>
-  </form>
+ <form id="formulario">
+  <label>Tipo de propiedad:
+    <select name="tipo" required>
+      <option value="Casa">Casa</option>
+      <option value="PH">PH</option>
+      <option value="Departamento">Departamento</option>
+    </select>
+  </label><br>
+
+  <label>Habitaciones: <input type="number" name="habitaciones" required></label><br>
+  <label>Baños: <input type="number" name="baños" required></label><br>
+ <label>Localidad:
+  <select name="localidad" required>
+    <option value="Almagro">Almagro</option>
+    <option value="Belgrano">Belgrano</option>
+    <option value="Caballito">Caballito</option>
+    <option value="Palermo">Palermo</option>
+    <option value="Recoleta">Recoleta</option>
+    <option value="San Telmo">San Telmo</option>
+    <option value="Villa Crespo">Villa Crespo</option>
+    <option value="Villa Urquiza">Palermo</option>
+  </select>
+</label><br>
+  <label>Tipo de pago:
+    <select name="tipo_pago" required>
+      <option value="mensual">Mensual</option>
+      <option value="diario">Diario</option>
+      <option value="anual">Anual</option>
+    </select>
+  </label><br>
+
+  <button type="submit">Predecir alquiler</button>
+</form>
 
   <h2 id="resultado"></h2>
+
+  <div id="ejemplos">
+    <h3>Ejemplos reales similares:</h3>
+    <ul id="listaEjemplos"></ul>
+  </div>
+
+
+  
 
   <script>
   const form = document.getElementById("formulario");
@@ -41,6 +71,16 @@
       const json = await res.json();
       if ("prediccion" in json) {
         document.getElementById("resultado").textContent = `Precio estimado: $${json.prediccion}`;
+
+        // Mostrar ejemplos
+        const listaEjemplos = document.getElementById("listaEjemplos");
+        listaEjemplos.innerHTML = "";
+        json.ejemplos.forEach(ej => {
+          const item = document.createElement("li");
+          item.textContent = `Tipo: ${ej.tipo}, Habitaciones: ${ej.habitaciones}, Baños: ${ej.baños}, Pago: ${ej.tipo_pago}, Precio real: $${ej.precio_alquiler}`;
+          listaEjemplos.appendChild(item);
+        });
+
       } else {
         document.getElementById("resultado").textContent = `Error: ${json.error}`;
       }
