@@ -1,6 +1,6 @@
 ## Integrantres
 * Leger Axel 
-* Toamas Ramos
+* Tomas Ramos
  
 ## Para correr el programa necesita
 ### crear un archivo venv donde guardar las intalaciones (esto es opcional pero nos enseñaron asi que es la unica forma que conosco)
