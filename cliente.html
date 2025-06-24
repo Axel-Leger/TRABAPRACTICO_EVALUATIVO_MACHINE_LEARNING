@@ -4,23 +4,32 @@
   <title>Predicción de Alquiler</title>
 </head>
 <body>
-    <h1>Entrenar Modelo</h1>
-    <button id="botonEntrenar">Entrenar modelo</button>
+  <h1>Entrenar Modelo</h1>
+  <button id="botonEntrenar">Entrenar modelo</button>
+
   <h1>Ingresar datos</h1>
   <form id="formulario">
     <label>Habitaciones: <input type="number" name="habitaciones" required></label><br>
     <label>Baños: <input type="number" name="baños" required></label><br>
-    <label>Superficie (m2): <input type="number" name="superficie_m2" step="0.1" required></label><br>
+    <label>Tipo de pago:
+      <select name="tipo_pago" required>
+        <option value="mensual">Mensual</option>
+        <option value="anual">Anual</option>
+        <option value="diario">Diario</option>
+      </select>
+    </label><br>
     <button type="submit">Predecir</button>
   </form>
+
   <h2 id="resultado"></h2>
 
   <script>
   const form = document.getElementById("formulario");
   form.addEventListener("submit", async (e) => {
     e.preventDefault();
-
+    // Obtenemos solo habitaciones, baños y tipo_pago
     const data = Object.fromEntries(new FormData(form));
+    // No hay superficie_m2 ahora
 
     try {
       const res = await fetch("http://localhost:5000/predecir", {
@@ -30,8 +39,6 @@
       });
 
       const json = await res.json();
-
-      // ✅ Verificación correcta incluso si predicción es 0
       if ("prediccion" in json) {
         document.getElementById("resultado").textContent = `Precio estimado: $${json.prediccion}`;
       } else {
@@ -43,25 +50,22 @@
   });
 
   document.getElementById("botonEntrenar").addEventListener("click", async () => {
-  const resultado = document.getElementById("resultado");
-  resultado.textContent = "Entrenando modelo...";
+    const resultado = document.getElementById("resultado");
+    resultado.textContent = "Entrenando modelo...";
 
-  try {
-    const res = await fetch("http://localhost:5000/entrenar", { method: "POST" });
-    const json = await res.json();
-    if ("mensaje" in json) {
-      alert(`${json.mensaje}\nPrecisión: ${json.precision}`);
-      resultado.textContent = ""; // limpiar el texto si querés
-    } else {
-      alert(`Error al entrenar: ${json.error}`);
+    try {
+      const res = await fetch("http://localhost:5000/entrenar", { method: "POST" });
+      const json = await res.json();
+      if ("mensaje" in json) {
+        alert(`${json.mensaje}\nPrecisión: ${json.precision}`);
+        resultado.textContent = "";
+      } else {
+        alert(`Error al entrenar: ${json.error}`);
+      }
+    } catch (error) {
+      alert(`Error en conexión: ${error.message}`);
     }
-  } catch (error) {
-    alert(`Error en conexión: ${error.message}`);
-  }
-});
-
-
-</script>
-
+  });
+  </script>
 </body>
 </html>

@@ -1,39 +1,44 @@
 import pandas as pd
 from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import OneHotEncoder
+from sklearn.compose import ColumnTransformer
+from sklearn.pipeline import Pipeline
 import joblib
 
-# Cargar datos
-df = pd.read_csv("alquileres.csv")
-
-# Convertir precio_alquiler a numérico
+df = pd.read_csv("alquileres_modificado.csv")
 df["precio_alquiler"] = pd.to_numeric(df["precio_alquiler"], errors="coerce")
-
-# Limpiar datos básicos (descartamos errores evidentes)
 df = df.dropna()
-df = df[df["precio_alquiler"] > 0]
-df = df[df["habitaciones"].apply(lambda x: str(x).isdigit())]
-df = df[df["baños"].apply(lambda x: str(x).isdigit())]
-df = df[df["superficie_m2"].apply(lambda x: str(x).replace('.', '', 1).isdigit())]
+
+def es_entero(val):
+    try:
+        int(val)
+        return True
+    except:
+        return False
+
+df = df[df["habitaciones"].apply(es_entero)]
+df = df[df["baños"].apply(es_entero)]
 
 df["habitaciones"] = df["habitaciones"].astype(int)
 df["baños"] = df["baños"].astype(int)
-df["superficie_m2"] = df["superficie_m2"].astype(float)
 
-# Variables
-X = df[["habitaciones", "baños", "superficie_m2"]]
+df = df[df["precio_alquiler"].between(1, 999999)]
+
+X = df[["habitaciones", "baños", "tipo_pago"]]
 y = df["precio_alquiler"]
 
-# Dividir en entrenamiento y prueba
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
+preprocesador = ColumnTransformer([
+    ("tipo_pago", OneHotEncoder(handle_unknown='ignore'), ["tipo_pago"])
+], remainder='passthrough')
 
-# Modelo
-modelo = LinearRegression()
+modelo = Pipeline([
+    ("preprocesamiento", preprocesador),
+    ("regresor", LinearRegression())
+])
+
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2)
 modelo.fit(X_train, y_train)
 
-# Guardar modelo
 joblib.dump(modelo, "modelo_alquiler.pkl")
-
-# Mostrar precisión
-score = modelo.score(X_test, y_test)
-print(f"Precisión del modelo: {score:.2f}")
+print(f"Precisión del modelo: {modelo.score(X_test, y_test):.2f}")

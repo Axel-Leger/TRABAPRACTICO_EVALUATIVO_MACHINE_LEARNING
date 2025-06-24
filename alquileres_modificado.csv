@@ -1,0 +1,501 @@
+tipo,habitaciones,baños,superficie_m2,localidad,precio_alquiler,tipo_pago
+Departamento,1,1,52.0,San Telmo,2470.0,diario
+PH,2,1,65.7,Caballito,1261440.0,anual
+PH,3,1,75.5,Villa Crespo,1667040.0,anual
+Departamento,3,1,66.5,Palermo,124687.5,mensual
+Casa,3,1,43.6,San Telmo,74556.0,mensual
+Departamento,1,1,63.2,Palermo,1422000.0,anual
+PH,3,1,84.8,Villa Urquiza,4522.67,diario
+PH,3,1,71.3,San Telmo,1300512.0,anual
+Casa,3,1,75.0,Palermo,168750.0,mensual
+PH,2,1,68.6,San Telmo,104272.0,mensual
+Departamento,2,1,131.0,Palermo,2947500.0,anual
+Casa,4,2,127.8,Almagro,7668.0,diario
+PH,2,1,124.0,Villa Crespo,2737920.0,anual
+Casa,4,2,108.0,Belgrano,2332800.0,anual
+PH,2,1,79.4,Caballito,127040.0,mensual
+Departamento,3,1,46.2,Recoleta,2310.0,diario
+Departamento,3,1,124.9,Belgrano,2248200.0,anual
+PH,3,1,109.2,Villa Crespo,2411136.0,anual
+Casa,4,2,120.5,Caballito,7230.0,diario
+PH,4,2,66.8,Recoleta,3562.67,diario
+Departamento,4,2,140.9,Villa Crespo,2916630.0,anual
+Departamento,4,2,105.5,Palermo,6593.75,diario
+PH,4,2,75.1,Villa Urquiza,120160.0,mensual
+Casa,4,2,49.2,Villa Crespo,3394.8,diario
+Casa,3,1,116.1,Palermo,3134700.0,anual
+Casa,1,1,47.0,Palermo,1269000.0,anual
+Departamento,4,2,79.7,Almagro,119550.0,mensual
+Departamento,2,1,136.4,Villa Urquiza,204600.0,mensual
+Departamento,2,1,92.7,Caballito,139050.0,mensual
+PH,2,1,59.5,Caballito,95200.0,mensual
+Departamento,1,1,38.7,Almagro,1935.0,diario
+Departamento,3,1,104.1,Almagro,1873800.0,anual
+PH,2,1,81.5,Almagro,4346.67,diario
+Casa,1,1,85.4,Belgrano,1844640.0,anual
+Casa,3,1,49.0,San Telmo,1005480.0,anual
+PH,4,2,125.7,Villa Urquiza,2413440.0,anual
+PH,4,2,39.4,Villa Crespo,869952.0,anual
+Casa,3,1,57.2,San Telmo,97812.0,mensual
+Casa,4,2,64.4,Almagro,115920.0,mensual
+PH,3,1,116.1,Belgrano,185760.0,mensual
+PH,2,1,49.6,Almagro,79360.0,mensual
+PH,2,1,78.5,Palermo,5233.33,diario
+PH,1,1,86.8,Belgrano,1666560.0,anual
+Casa,3,1,115.0,San Telmo,2359800.0,anual
+Casa,1,1,141.8,Almagro,8508.0,diario
+PH,1,1,59.6,San Telmo,90592.0,mensual
+Departamento,3,1,86.0,San Telmo,1470600.0,anual
+Casa,3,1,119.3,Villa Crespo,2963412.0,anual
+PH,1,1,31.8,Villa Crespo,702144.0,anual
+Departamento,1,1,47.0,San Telmo,2232.5,diario
+PH,4,2,87.4,Caballito,1678080.0,anual
+PH,4,2,96.3,Palermo,2311200.0,anual
+Departamento,1,1,109.6,San Telmo,1874160.0,anual
+Departamento,1,1,97.1,Caballito,1747800.0,anual
+Casa,1,1,110.1,Caballito,198180.0,mensual
+Departamento,1,1,104.4,Recoleta,5220.0,diario
+Departamento,4,2,101.6,Belgrano,5080.0,diario
+Departamento,4,2,107.9,San Telmo,153757.5,mensual
+Casa,3,1,116.8,San Telmo,199728.0,mensual
+Casa,2,1,73.8,Villa Urquiza,4428.0,diario
+Departamento,3,1,87.1,Villa Urquiza,130650.0,mensual
+Casa,1,1,131.3,Palermo,3545100.0,anual
+Departamento,4,2,115.1,San Telmo,5467.25,diario
+Casa,1,1,132.4,Palermo,297900.0,mensual
+Casa,3,1,118.3,Villa Crespo,8162.7,diario
+Departamento,3,1,113.0,Almagro,2034000.0,anual
+PH,3,1,65.3,Palermo,130600.0,mensual
+PH,4,2,87.1,Belgrano,1672320.0,anual
+Casa,2,1,55.1,San Telmo,94221.0,mensual
+PH,2,1,100.8,Almagro,1935360.0,anual
+PH,2,1,97.1,Palermo,6473.33,diario
+Casa,1,1,108.8,Caballito,6528.0,diario
+Departamento,4,2,104.2,Caballito,5210.0,diario
+Departamento,1,1,104.8,Villa Crespo,180780.0,mensual
+PH,3,1,72.6,San Telmo,1324224.0,anual
+Casa,1,1,48.7,Villa Crespo,1209708.0,anual
+PH,4,2,129.0,Recoleta,6880.0,diario
+Departamento,1,1,38.3,Villa Urquiza,1915.0,diario
+PH,3,1,67.6,Belgrano,3605.33,diario
+PH,4,2,53.6,Almagro,1029120.0,anual
+Departamento,1,1,118.1,Palermo,7381.25,diario
+Departamento,2,1,123.3,Villa Urquiza,2219400.0,anual
+Departamento,1,1,82.6,Villa Crespo,142485.0,mensual
+Casa,4,2,132.6,Almagro,238680.0,mensual
+PH,2,1,94.5,Villa Crespo,173880.0,mensual
+PH,1,1,63.9,Almagro,102240.0,mensual
+Departamento,3,1,96.5,Caballito,1737000.0,anual
+Departamento,2,1,36.5,Villa Crespo,2098.75,diario
+Departamento,1,1,52.9,Palermo,1190250.0,anual
+Casa,3,1,75.1,Belgrano,4506.0,diario
+Departamento,1,1,126.6,Villa Urquiza,2278800.0,anual
+Casa,3,1,84.1,Belgrano,151380.0,mensual
+Casa,3,1,68.2,Almagro,122760.0,mensual
+PH,1,1,88.3,Palermo,176600.0,mensual
+PH,4,2,145.0,Recoleta,7733.33,diario
+Casa,4,2,45.1,Villa Urquiza,2706.0,diario
+Departamento,1,1,109.9,Caballito,5495.0,diario
+Casa,2,1,91.3,San Telmo,1873476.0,anual
+Departamento,2,1,117.4,Caballito,176100.0,mensual
+Casa,1,1,36.8,Caballito,794880.0,anual
+Casa,4,2,60.6,Caballito,1308960.0,anual
+Casa,3,1,87.5,Recoleta,5250.0,diario
+Casa,1,1,141.7,San Telmo,8076.9,diario
+Casa,1,1,55.7,Belgrano,100260.0,mensual
+Casa,1,1,145.5,Recoleta,3142800.0,anual
+Casa,1,1,146.6,Caballito,3166560.0,anual
+Departamento,2,1,54.8,Recoleta,82200.0,mensual
+PH,4,2,111.9,Palermo,2685600.0,anual
+PH,4,2,65.4,Belgrano,1255680.0,anual
+Departamento,2,1,129.2,San Telmo,6137.0,diario
+PH,2,1,82.9,Caballito,1591680.0,anual
+Casa,3,1,71.9,Villa Urquiza,129420.0,mensual
+PH,3,1,113.5,Villa Crespo,6961.33,diario
+Departamento,1,1,31.8,Almagro,1590.0,diario
+Casa,1,1,67.7,Caballito,121860.0,mensual
+Departamento,2,1,91.5,Caballito,4575.0,diario
+PH,2,1,40.8,Recoleta,65280.0,mensual
+Casa,3,1,81.1,San Telmo,1664172.0,anual
+Casa,3,1,132.7,San Telmo,7563.9,diario
+Casa,2,1,33.6,Villa Crespo,834624.0,anual
+Casa,4,2,117.8,Villa Urquiza,212040.0,mensual
+Departamento,3,1,116.8,Palermo,2628000.0,anual
+Departamento,1,1,63.2,Palermo,1422000.0,anual
+Departamento,2,1,105.6,Recoleta,1900800.0,anual
+PH,1,1,134.8,San Telmo,204896.0,mensual
+Departamento,2,1,83.1,Almagro,4155.0,diario
+Casa,1,1,44.7,Caballito,80460.0,mensual
+Casa,2,1,50.1,Almagro,90180.0,mensual
+Casa,1,1,56.5,San Telmo,1159380.0,anual
+Departamento,2,1,78.8,Almagro,118200.0,mensual
+Departamento,3,1,109.4,San Telmo,1870740.0,anual
+Casa,2,1,51.0,Caballito,3060.0,diario
+Departamento,4,2,99.6,Palermo,6225.0,diario
+Casa,3,1,37.5,Villa Crespo,931500.0,anual
+PH,1,1,88.8,Villa Crespo,1960704.0,anual
+Departamento,1,1,106.0,Recoleta,1908000.0,anual
+Casa,4,2,45.3,Villa Urquiza,978480.0,anual
+Casa,1,1,34.7,Caballito,2082.0,diario
+Casa,1,1,115.3,Palermo,259425.0,mensual
+Departamento,1,1,117.5,Recoleta,2115000.0,anual
+Departamento,2,1,91.3,Villa Crespo,157492.5,mensual
+PH,1,1,136.3,Caballito,218080.0,mensual
+Casa,1,1,51.5,Belgrano,1112400.0,anual
+Departamento,3,1,30.8,Palermo,57750.0,mensual
+Departamento,2,1,32.2,Palermo,724500.0,anual
+Departamento,2,1,145.1,Belgrano,217650.0,mensual
+Departamento,2,1,90.0,Recoleta,1620000.0,anual
+Departamento,3,1,144.6,Caballito,216900.0,mensual
+Departamento,2,1,30.4,Recoleta,547200.0,anual
+PH,1,1,52.8,Recoleta,1013760.0,anual
+PH,1,1,52.4,Almagro,1006080.0,anual
+Departamento,4,2,81.4,Caballito,1465200.0,anual
+PH,4,2,128.3,Almagro,2463360.0,anual
+Departamento,4,2,102.4,Belgrano,1843200.0,anual
+Departamento,2,1,86.7,Villa Crespo,4985.25,diario
+Departamento,4,2,48.7,Caballito,73050.0,mensual
+Departamento,4,2,37.4,Almagro,1870.0,diario
+PH,1,1,30.1,Caballito,1605.33,diario
+PH,3,1,46.1,Palermo,1106400.0,anual
+PH,4,2,133.0,San Telmo,6738.67,diario
+PH,1,1,31.0,Recoleta,49600.0,mensual
+Departamento,4,2,113.3,Palermo,7081.25,diario
+Casa,1,1,58.3,Villa Crespo,4022.7,diario
+Casa,3,1,66.9,Villa Urquiza,1445040.0,anual
+Departamento,4,2,119.9,Villa Crespo,206827.5,mensual
+PH,1,1,88.6,Belgrano,4725.33,diario
+Casa,3,1,53.2,Recoleta,3192.0,diario
+Departamento,4,2,148.5,Caballito,7425.0,diario
+Casa,3,1,43.0,Almagro,2580.0,diario
+Departamento,1,1,56.8,San Telmo,80940.0,mensual
+Casa,2,1,100.2,Belgrano,6012.0,diario
+PH,3,1,146.8,Recoleta,7829.33,diario
+PH,1,1,40.0,San Telmo,2026.67,diario
+Casa,4,2,34.8,Palermo,78300.0,mensual
+PH,2,1,121.8,Villa Crespo,2689344.0,anual
+PH,3,1,130.9,Villa Crespo,8028.53,diario
+Departamento,1,1,128.9,Palermo,241687.5,mensual
+Departamento,3,1,57.9,San Telmo,2750.25,diario
+PH,4,2,46.5,Recoleta,892800.0,anual
+Departamento,2,1,140.7,Caballito,211050.0,mensual
+PH,4,2,54.5,Villa Urquiza,87200.0,mensual
+Departamento,4,2,93.0,San Telmo,1590300.0,anual
+PH,3,1,136.5,Recoleta,218400.0,mensual
+Casa,1,1,56.7,Caballito,1224720.0,anual
+PH,2,1,68.3,San Telmo,3460.53,diario
+Departamento,4,2,140.7,Palermo,263812.5,mensual
+Departamento,3,1,80.9,Caballito,1456200.0,anual
+Departamento,3,1,140.0,Villa Crespo,2898000.0,anual
+Casa,2,1,145.4,Caballito,8724.0,diario
+PH,1,1,53.0,Recoleta,2826.67,diario
+PH,3,1,36.6,Palermo,2440.0,diario
+Departamento,4,2,51.9,Palermo,1167750.0,anual
+Departamento,1,1,122.3,Villa Crespo,7032.25,diario
+Departamento,1,1,96.1,Villa Urquiza,144150.0,mensual
+PH,3,1,48.4,Villa Urquiza,929280.0,anual
+Departamento,3,1,75.8,Almagro,113700.0,mensual
+PH,4,2,107.9,San Telmo,5466.93,diario
+Departamento,4,2,86.3,Recoleta,129450.0,mensual
+Departamento,1,1,123.9,Caballito,185850.0,mensual
+PH,2,1,57.5,Palermo,115000.0,mensual
+Departamento,4,2,80.8,Villa Urquiza,4040.0,diario
+Departamento,1,1,50.3,Recoleta,2515.0,diario
+Departamento,3,1,32.1,Villa Crespo,55372.5,mensual
+Departamento,2,1,94.1,Caballito,4705.0,diario
+PH,3,1,139.8,San Telmo,7083.2,diario
+PH,1,1,123.8,Palermo,2971200.0,anual
+PH,3,1,45.7,San Telmo,69464.0,mensual
+Departamento,1,1,83.9,Villa Crespo,1736730.0,anual
+PH,1,1,138.2,Villa Urquiza,7370.67,diario
+PH,1,1,107.3,Villa Urquiza,171680.0,mensual
+Departamento,4,2,39.0,Villa Crespo,67275.0,mensual
+Casa,1,1,30.2,Villa Crespo,750168.0,anual
+PH,4,2,120.2,Almagro,2307840.0,anual
+Departamento,1,1,118.8,Caballito,5940.0,diario
+PH,4,2,125.9,Palermo,251800.0,mensual
+Casa,3,1,134.7,San Telmo,230337.0,mensual
+Casa,4,2,105.3,San Telmo,2160756.0,anual
+Casa,4,2,98.2,Villa Urquiza,5892.0,diario
+Departamento,2,1,68.7,Villa Crespo,118507.5,mensual
+Departamento,1,1,93.7,Almagro,1686600.0,anual
+PH,2,1,40.9,Villa Urquiza,65440.0,mensual
+PH,3,1,36.8,Almagro,1962.67,diario
+Departamento,3,1,80.8,Palermo,5050.0,diario
+PH,2,1,38.7,Almagro,61920.0,mensual
+Departamento,1,1,130.6,Villa Urquiza,2350800.0,anual
+Casa,3,1,114.1,Belgrano,205380.0,mensual
+Casa,2,1,112.1,Caballito,2421360.0,anual
+PH,1,1,83.8,Almagro,4469.33,diario
+PH,2,1,33.6,Belgrano,53760.0,mensual
+Casa,2,1,47.4,Villa Crespo,1177416.0,anual
+Casa,4,2,131.9,Villa Crespo,3276396.0,anual
+Casa,2,1,40.9,Palermo,1104300.0,anual
+Departamento,4,2,114.2,Almagro,2055600.0,anual
+PH,1,1,67.8,Caballito,1301760.0,anual
+PH,2,1,103.3,Villa Crespo,2280864.0,anual
+Departamento,4,2,31.3,Palermo,1956.25,diario
+Departamento,3,1,103.0,Palermo,2317500.0,anual
+Casa,4,2,46.5,Caballito,2790.0,diario
+Casa,3,1,134.1,San Telmo,2751732.0,anual
+Departamento,2,1,56.6,Recoleta,1018800.0,anual
+Departamento,4,2,126.1,Villa Urquiza,2269800.0,anual
+Departamento,1,1,69.4,Palermo,1561500.0,anual
+PH,3,1,131.3,San Telmo,2394912.0,anual
+Casa,2,1,112.0,Recoleta,201600.0,mensual
+Departamento,1,1,118.4,Belgrano,2131200.0,anual
+Casa,2,1,84.7,Almagro,152460.0,mensual
+Casa,2,1,122.6,Villa Urquiza,220680.0,mensual
+Departamento,1,1,133.8,Belgrano,6690.0,diario
+Casa,4,2,60.9,Villa Urquiza,3654.0,diario
+PH,1,1,88.4,Belgrano,1697280.0,anual
+PH,4,2,122.1,Caballito,195360.0,mensual
+Casa,1,1,53.0,Villa Urquiza,95400.0,mensual
+Casa,2,1,119.0,Almagro,2570400.0,anual
+PH,1,1,38.4,Villa Urquiza,737280.0,anual
+PH,3,1,47.9,San Telmo,873696.0,anual
+Casa,2,1,51.3,San Telmo,2924.1,diario
+Casa,3,1,64.6,Palermo,4845.0,diario
+Casa,4,2,130.3,Villa Crespo,3236652.0,anual
+Casa,4,2,32.9,Villa Crespo,817236.0,anual
+Casa,3,1,43.0,Villa Crespo,1068120.0,anual
+Departamento,4,2,124.0,Belgrano,6200.0,diario
+Casa,4,2,121.7,Belgrano,7302.0,diario
+Departamento,2,1,42.6,Almagro,2130.0,diario
+Casa,4,2,66.2,Villa Crespo,1644408.0,anual
+Departamento,4,2,60.3,Villa Crespo,1248210.0,anual
+PH,2,1,71.1,Palermo,142200.0,mensual
+Departamento,2,1,90.2,Recoleta,135300.0,mensual
+PH,1,1,86.3,San Telmo,4372.53,diario
+PH,2,1,112.1,Caballito,2152320.0,anual
+Departamento,2,1,33.7,Villa Crespo,58132.5,mensual
+Departamento,4,2,52.9,Villa Urquiza,952200.0,anual
+PH,3,1,146.8,Caballito,2818560.0,anual
+Departamento,3,1,66.3,Villa Crespo,3812.25,diario
+PH,4,2,65.5,Villa Urquiza,1257600.0,anual
+Departamento,3,1,61.6,Villa Urquiza,3080.0,diario
+Casa,2,1,70.8,Belgrano,127440.0,mensual
+Departamento,1,1,34.9,San Telmo,1657.75,diario
+Casa,1,1,55.0,Villa Urquiza,3300.0,diario
+Departamento,3,1,82.8,Caballito,4140.0,diario
+PH,4,2,109.5,Recoleta,5840.0,diario
+PH,2,1,47.8,Villa Crespo,87952.0,mensual
+PH,2,1,140.1,Belgrano,7472.0,diario
+Departamento,1,1,131.8,Caballito,197700.0,mensual
+Departamento,1,1,55.6,Palermo,1251000.0,anual
+Departamento,4,2,70.8,Palermo,132750.0,mensual
+PH,2,1,130.8,Caballito,209280.0,mensual
+PH,1,1,138.6,Caballito,221760.0,mensual
+Casa,3,1,103.9,Caballito,6234.0,diario
+Departamento,1,1,132.7,Villa Crespo,2746890.0,anual
+Casa,1,1,120.4,Villa Urquiza,2600640.0,anual
+Casa,1,1,105.7,Villa Urquiza,2283120.0,anual
+PH,1,1,32.1,San Telmo,1626.4,diario
+Casa,3,1,105.7,Villa Urquiza,190260.0,mensual
+PH,2,1,110.3,Recoleta,5882.67,diario
+Departamento,3,1,91.1,Caballito,4555.0,diario
+PH,4,2,79.9,Recoleta,4261.33,diario
+Casa,1,1,97.8,Villa Crespo,2429352.0,anual
+Casa,1,1,76.8,Belgrano,1658880.0,anual
+PH,1,1,133.5,Villa Crespo,2947680.0,anual
+PH,4,2,80.4,Villa Urquiza,4288.0,diario
+PH,4,2,90.8,Recoleta,145280.0,mensual
+PH,3,1,144.0,Almagro,230400.0,mensual
+Casa,2,1,40.9,Villa Urquiza,883440.0,anual
+Departamento,2,1,55.8,Almagro,2790.0,diario
+Departamento,2,1,38.4,San Telmo,656640.0,anual
+Casa,1,1,81.8,Recoleta,1766880.0,anual
+PH,2,1,100.7,Villa Crespo,6176.27,diario
+PH,2,1,75.7,Villa Urquiza,121120.0,mensual
+PH,4,2,89.1,Villa Crespo,5464.8,diario
+Departamento,3,1,40.7,Palermo,2543.75,diario
+PH,2,1,82.9,Recoleta,1591680.0,anual
+Casa,1,1,104.5,Almagro,6270.0,diario
+Casa,2,1,145.6,Belgrano,3144960.0,anual
+Departamento,2,1,59.0,Recoleta,88500.0,mensual
+PH,1,1,133.7,Villa Urquiza,2567040.0,anual
+Departamento,3,1,63.7,Palermo,119437.5,mensual
+Departamento,2,1,129.1,Palermo,2904750.0,anual
+PH,4,2,112.2,Palermo,224400.0,mensual
+Departamento,4,2,44.1,Palermo,2756.25,diario
+Casa,4,2,48.3,Caballito,2898.0,diario
+Departamento,2,1,87.8,Caballito,131700.0,mensual
+Departamento,3,1,138.8,Villa Crespo,239430.0,mensual
+Casa,4,2,77.7,Villa Urquiza,139860.0,mensual
+Departamento,3,1,38.4,Villa Urquiza,1920.0,diario
+Casa,4,2,38.4,Villa Urquiza,2304.0,diario
+PH,3,1,88.8,Palermo,5920.0,diario
+Casa,3,1,98.7,Palermo,7402.5,diario
+Casa,3,1,134.3,Villa Crespo,9266.7,diario
+PH,4,2,147.6,San Telmo,2692224.0,anual
+Departamento,2,1,141.9,San Telmo,2426490.0,anual
+PH,3,1,129.4,Villa Urquiza,6901.33,diario
+Casa,2,1,108.1,Caballito,6486.0,diario
+Departamento,4,2,126.1,San Telmo,5989.75,diario
+Departamento,1,1,68.2,Caballito,1227600.0,anual
+Departamento,4,2,123.2,Belgrano,184800.0,mensual
+Departamento,3,1,58.4,Caballito,1051200.0,anual
+Casa,3,1,87.3,Caballito,1885680.0,anual
+Departamento,2,1,140.4,Villa Urquiza,2527200.0,anual
+Departamento,3,1,81.8,San Telmo,1398780.0,anual
+Departamento,3,1,91.7,Villa Crespo,158182.5,mensual
+Departamento,1,1,102.7,Caballito,1848600.0,anual
+Casa,3,1,102.6,San Telmo,175446.0,mensual
+PH,1,1,56.6,Recoleta,1086720.0,anual
+PH,3,1,67.5,Villa Urquiza,108000.0,mensual
+Departamento,3,1,109.5,Palermo,2463750.0,anual
+PH,3,1,100.6,Palermo,2414400.0,anual
+PH,4,2,109.7,Belgrano,2106240.0,anual
+PH,4,2,79.3,San Telmo,120536.0,mensual
+Departamento,4,2,65.0,Villa Urquiza,1170000.0,anual
+Casa,2,1,117.9,Belgrano,212220.0,mensual
+PH,1,1,147.2,Villa Crespo,3250176.0,anual
+PH,4,2,54.4,Recoleta,1044480.0,anual
+PH,4,2,127.3,Villa Crespo,7807.73,diario
+Casa,3,1,112.1,Villa Urquiza,2421360.0,anual
+PH,1,1,30.7,Villa Urquiza,589440.0,anual
+Casa,1,1,128.1,Belgrano,7686.0,diario
+Departamento,1,1,82.0,Palermo,1845000.0,anual
+Casa,3,1,44.0,Villa Urquiza,950400.0,anual
+Casa,3,1,136.6,Almagro,245880.0,mensual
+Casa,2,1,35.5,Belgrano,2130.0,diario
+Departamento,2,1,120.9,Almagro,181350.0,mensual
+Departamento,2,1,134.8,Belgrano,2426400.0,anual
+Casa,4,2,82.2,San Telmo,4685.4,diario
+PH,2,1,124.3,San Telmo,6297.87,diario
+Departamento,3,1,82.7,Villa Urquiza,1488600.0,anual
+Casa,1,1,118.7,Villa Crespo,245709.0,mensual
+Casa,3,1,35.6,San Telmo,60876.0,mensual
+PH,3,1,60.8,Palermo,1459200.0,anual
+PH,3,1,100.4,Villa Crespo,6157.87,diario
+Casa,4,2,97.6,Palermo,219600.0,mensual
+Departamento,4,2,61.9,San Telmo,1058490.0,anual
+PH,4,2,65.8,Palermo,4386.67,diario
+Casa,2,1,44.0,Villa Crespo,3036.0,diario
+PH,2,1,137.1,Recoleta,7312.0,diario
+Departamento,2,1,39.6,Almagro,712800.0,anual
+PH,1,1,118.4,Villa Urquiza,2273280.0,anual
+Departamento,3,1,61.2,Caballito,3060.0,diario
+Casa,3,1,104.9,Almagro,188820.0,mensual
+PH,4,2,86.0,San Telmo,130720.0,mensual
+Casa,1,1,132.0,Villa Urquiza,2851200.0,anual
+PH,1,1,32.1,Belgrano,51360.0,mensual
+PH,3,1,137.5,Caballito,220000.0,mensual
+Casa,2,1,46.7,Recoleta,2802.0,diario
+Departamento,3,1,149.8,Almagro,2696400.0,anual
+Departamento,2,1,143.4,San Telmo,204345.0,mensual
+Departamento,1,1,124.6,Almagro,2242800.0,anual
+Departamento,2,1,66.4,San Telmo,94620.0,mensual
+PH,2,1,77.4,Villa Crespo,1708992.0,anual
+Departamento,2,1,117.2,Palermo,219750.0,mensual
+PH,3,1,44.2,Caballito,2357.33,diario
+Departamento,1,1,89.5,Caballito,1611000.0,anual
+Casa,4,2,71.1,Belgrano,1535760.0,anual
+Departamento,4,2,88.3,Almagro,132450.0,mensual
+PH,2,1,131.1,Caballito,6992.0,diario
+PH,1,1,37.8,Almagro,2016.0,diario
+PH,3,1,117.6,Belgrano,2257920.0,anual
+PH,1,1,110.7,San Telmo,2019168.0,anual
+Departamento,2,1,105.7,Belgrano,1902600.0,anual
+Casa,1,1,108.5,Almagro,195300.0,mensual
+PH,2,1,69.7,Belgrano,3717.33,diario
+Casa,2,1,126.0,Palermo,9450.0,diario
+Departamento,1,1,70.4,Caballito,1267200.0,anual
+Casa,2,1,69.5,Palermo,5212.5,diario
+PH,2,1,70.2,Belgrano,112320.0,mensual
+Departamento,2,1,78.6,Palermo,147375.0,mensual
+Casa,2,1,94.5,Recoleta,2041200.0,anual
+Departamento,4,2,112.6,Palermo,2533500.0,anual
+PH,4,2,112.3,Recoleta,179680.0,mensual
+Departamento,1,1,76.2,Belgrano,1371600.0,anual
+Departamento,3,1,143.3,Recoleta,7165.0,diario
+PH,1,1,89.8,Recoleta,143680.0,mensual
+PH,4,2,146.2,Almagro,233920.0,mensual
+Casa,3,1,145.8,Recoleta,262440.0,mensual
+Casa,2,1,133.4,San Telmo,228114.0,mensual
+Casa,3,1,80.5,Caballito,4830.0,diario
+Casa,2,1,32.1,San Telmo,1829.7,diario
+Departamento,2,1,30.2,San Telmo,43035.0,mensual
+Departamento,4,2,142.4,San Telmo,2435040.0,anual
+Departamento,3,1,133.6,San Telmo,2284560.0,anual
+PH,4,2,111.7,Villa Crespo,6850.93,diario
+PH,2,1,138.2,San Telmo,2520768.0,anual
+Casa,2,1,60.1,Villa Urquiza,1298160.0,anual
+Casa,3,1,86.7,Belgrano,156060.0,mensual
+Casa,2,1,96.0,Palermo,7200.0,diario
+Departamento,1,1,34.9,San Telmo,596790.0,anual
+Departamento,1,1,40.9,Villa Crespo,70552.5,mensual
+PH,1,1,56.6,Recoleta,90560.0,mensual
+Departamento,1,1,104.2,Recoleta,156300.0,mensual
+Casa,4,2,53.9,San Telmo,3072.3,diario
+Casa,3,1,38.9,San Telmo,66519.0,mensual
+PH,2,1,114.1,Villa Crespo,2519328.0,anual
+Casa,2,1,112.3,Almagro,2425680.0,anual
+Departamento,4,2,112.4,Villa Urquiza,5620.0,diario
+Casa,3,1,60.1,Villa Crespo,124407.0,mensual
+PH,1,1,148.6,San Telmo,2710464.0,anual
+PH,2,1,49.2,Caballito,2624.0,diario
+Departamento,3,1,64.1,Almagro,1153800.0,anual
+Departamento,2,1,97.7,Almagro,1758600.0,anual
+Casa,4,2,104.9,Palermo,7867.5,diario
+PH,2,1,126.1,Almagro,2421120.0,anual
+Casa,1,1,125.6,Palermo,3391200.0,anual
+PH,4,2,67.6,Almagro,108160.0,mensual
+PH,4,2,61.7,Belgrano,1184640.0,anual
+PH,1,1,90.4,Villa Urquiza,144640.0,mensual
+PH,3,1,113.4,Belgrano,2177280.0,anual
+Casa,3,1,40.6,Villa Urquiza,73080.0,mensual
+PH,3,1,117.2,Recoleta,6250.67,diario
+Casa,3,1,48.7,Caballito,1051920.0,anual
+Casa,1,1,51.6,Caballito,1114560.0,anual
+PH,2,1,34.3,Palermo,823200.0,anual
+Casa,4,2,32.8,San Telmo,1869.6,diario
+Casa,4,2,129.9,Caballito,233820.0,mensual
+Departamento,4,2,73.9,Caballito,1330200.0,anual
+PH,4,2,142.9,Palermo,9526.67,diario
+PH,4,2,130.6,Villa Urquiza,208960.0,mensual
+PH,1,1,73.5,Belgrano,117600.0,mensual
+Casa,1,1,95.0,Villa Crespo,196650.0,mensual
+Departamento,1,1,110.7,Villa Crespo,2291490.0,anual
+PH,2,1,63.9,Caballito,1226880.0,anual
+Casa,1,1,98.8,Caballito,177840.0,mensual
+Departamento,1,1,94.2,Villa Crespo,5416.5,diario
+PH,4,2,50.0,Belgrano,2666.67,diario
+Departamento,3,1,57.1,Villa Crespo,1181970.0,anual
+Casa,1,1,148.2,Caballito,8892.0,diario
+Casa,3,1,85.8,Caballito,154440.0,mensual
+Departamento,3,1,111.5,Palermo,6968.75,diario
+Departamento,3,1,121.3,Almagro,2183400.0,anual
+Departamento,1,1,87.7,Villa Crespo,1815390.0,anual
+Casa,1,1,106.8,Villa Urquiza,192240.0,mensual
+Departamento,4,2,100.2,Palermo,187875.0,mensual
+Casa,3,1,107.2,Palermo,241200.0,mensual
+Casa,4,2,139.9,Almagro,251820.0,mensual
+Casa,4,2,35.7,Villa Crespo,73899.0,mensual
+Departamento,1,1,127.8,Palermo,2875500.0,anual
+Departamento,3,1,52.7,Villa Urquiza,2635.0,diario
+Departamento,4,2,112.8,Villa Urquiza,2030400.0,anual
+Departamento,4,2,119.8,Recoleta,2156400.0,anual
+PH,1,1,86.2,Recoleta,4597.33,diario
+Casa,1,1,102.7,Caballito,2218320.0,anual
+Departamento,1,1,90.1,San Telmo,1540710.0,anual
+Casa,-1,2,120.0,Palermo,3240000.0,anual
+Departamento,2,0,45.0,Villa Urquiza,2250.0,diario
+,3,2,90.0,Caballito,4500.0,diario
+PH,2,1,9999.0,Almagro,191980800.0,anual
+Departamento,1,1,35.0,,630000.0,anual
+Departamento,1,1,35.0,Caballito,630000.0,anual
+Departamento,dos,1,35.0,Caballito,52500.0,mensual
+PH,2,1,,Belgrano,,mensual
+Casa,3,1,95.0,Recoleta,171000.0,mensual
+Departamento,2,1,45.0,Palermo,2812.5,diario
+Casa,3,1,134.1,Palermo,3620700.0,anual
+Casa,4,2,68.9,Recoleta,1488240.0,anual
+Casa,4,2,70.4,San Telmo,1444608.0,anual
+Departamento,2,1,148.5,Palermo,278437.5,mensual
+PH,3,1,39.7,Villa Crespo,876576.0,anual
+Casa,4,2,91.3,San Telmo,5204.1,diario
+PH,1,1,82.6,Palermo,1982400.0,anual
+PH,3,1,91.0,Recoleta,145600.0,mensual
+Departamento,4,2,47.1,Palermo,1059750.0,anual
+PH,3,1,142.5,Villa Crespo,8740.0,diario
