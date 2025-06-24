@@ -1,4 +1,8 @@
-﻿## Para correr el programa necesita
+## Integrantres
+* Leger Axel 
+* Toamas Ramos
+ 
+## Para correr el programa necesita
 ### crear un archivo venv donde guardar las intalaciones (esto es opcional pero nos enseñaron asi que es la unica forma que conosco)
 * python -m venv venv 
 ### despues activa el entorno
