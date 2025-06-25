@@ -7,6 +7,7 @@
 <body>
   <h1>Entrenar Modelo</h1>
   <button id="botonEntrenar">Entrenar modelo</button>
+  <h2 id="precisionModelo"></h2>
 
   <h1>Ingresar datos</h1>
  <form id="formulario">
@@ -57,9 +58,7 @@
   const form = document.getElementById("formulario");
   form.addEventListener("submit", async (e) => {
     e.preventDefault();
-    // Obtenemos solo habitaciones, baños y tipo_pago
     const data = Object.fromEntries(new FormData(form));
-    // No hay superficie_m2 ahora
 
     try {
       const res = await fetch("http://localhost:5000/predecir", {
@@ -72,7 +71,6 @@
       if ("prediccion" in json) {
         document.getElementById("resultado").textContent = `Precio estimado: $${json.prediccion}`;
 
-        // Mostrar ejemplos
         const listaEjemplos = document.getElementById("listaEjemplos");
         listaEjemplos.innerHTML = "";
         json.ejemplos.forEach(ej => {
@@ -89,23 +87,20 @@
     }
   });
 
-  document.getElementById("botonEntrenar").addEventListener("click", async () => {
-    const resultado = document.getElementById("resultado");
-    resultado.textContent = "Entrenando modelo...";
-
-    try {
-      const res = await fetch("http://localhost:5000/entrenar", { method: "POST" });
-      const json = await res.json();
-      if ("mensaje" in json) {
-        alert(`${json.mensaje}\nPrecisión: ${json.precision}`);
-        resultado.textContent = "";
-      } else {
-        alert(`Error al entrenar: ${json.error}`);
-      }
-    } catch (error) {
-      alert(`Error en conexión: ${error.message}`);
+ document.getElementById("botonEntrenar").addEventListener("click", async () => {
+  try {
+    const res = await fetch("http://localhost:5000/entrenar", { method: "POST" });
+    const json = await res.json();
+    if ("mensaje" in json) {
+      document.getElementById("precisionModelo").textContent =
+        `Precisión del modelo: ${(json.precision * 100).toFixed(2)}%`;
+    } else {
+      alert(`Error al entrenar: ${json.error}`);
     }
-  });
+  } catch (error) {
+    alert(`Error en conexión: ${error.message}`);
+  }
+});
   </script>
 </body>
 </html>
